@@ -6,7 +6,7 @@ My name is Jack O'Hara and welcome to my GitHub! I've been self-studying program
 - 📫 How to reach me: through here or on my <a href="https://www.linkedin.com/in/jack-o-hara-9abb9a124/">LinkedIn</a>
 - 😄 Pronouns: He/Him 
 - ⚡ Fun facst: I speak Spanish 🗺️, play ukulele 🎸 and love movies 🎥
-
+- 📖 Favorite quote: “Wherever there is a human being, there is an opportunity for a kindness.” – Seneca 
 
 <!--
 **JackBayly/JackBayly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
