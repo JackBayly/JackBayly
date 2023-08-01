@@ -5,7 +5,7 @@ My name is Jack O'Hara and welcome to my GitHub! I've been self-studying program
 - 👯 I’m looking to collaborate on front-end projects or anything cool!
 - 📫 How to reach me: through here or on my <a href="https://www.linkedin.com/in/jack-o-hara-9abb9a124/">LinkedIn</a>
 - 😄 Pronouns: He/Him 
-- ⚡ Fun facst: I speak Spanish 🇲🇽, play ukulele 🎸 and love movies 🎥
+- ⚡ Fun facst: I speak Spanish 🗺️, play ukulele 🎸 and love movies 🎥
 
 
 <!--
