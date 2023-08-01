@@ -2,10 +2,10 @@
 My name is Jack O'Hara and welcome to my GitHub! I've been self-studying programming for a while to transition into a web development role 💻
 - 🔭 I’m currently freelancing making websites!
 - 🌱 I’m currently learning React ⚛️ and Firebase 🔥
-- 👯 Check out my ukulele store practice project: https://github.com/JackBayly/ukulele-store
 - 📫 How to reach me: through here or on my <a href="https://www.linkedin.com/in/jack-o-hara-9abb9a124/">LinkedIn</a>
 - 😄 Pronouns: He/Him 
 - ⚡ Fun facst: I speak Spanish 🗺️, play ukulele 🎸 and love movies 🎥
+- 👀 Check out my ukulele store practice project: https://github.com/JackBayly/ukulele-store, or my Skectchy Weather: https://github.com/JackBayly/sketchy-weather, or Tic-Tac-Toe game: https://github.com/JackBayly/tic_tac_toe
 - 📖 Favorite quote: “Wherever there is a human being, there is an opportunity for a kindness.” – Seneca 
 
 <!--
