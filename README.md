@@ -7,7 +7,7 @@ My name is Jack O'Hara and welcome to my GitHub! I've been self-studying program
 - ⚡ Fun facts: I speak Spanish 🗺️, play ukulele 🎸 and love movies 🎥
 - 📖 Favorite quote: “Wherever there is a human being, there is an opportunity for a kindness.” – Seneca
   
-😎 Check out my <a href="https://github.com/JackBayly/ukulele-store">ukulele store project</a>, <a href="https://github.com/JackBayly/sketchy-weather">weather app</a>, and <a href="https://github.com/JackBayly/tic_tac_toe">tic-tac-toe game</a> ✨
+😎 Check out my <a href="https://github.com/JackBayly/ukulele-store">ukulele store project</a>, my <a href="https://github.com/JackBayly/sketchy-weather">weather app</a>, and <a href="https://github.com/JackBayly/tic_tac_toe">tic-tac-toe game</a> ✨
 
   
 
