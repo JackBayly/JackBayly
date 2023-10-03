@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Jack O'Hara and welcome to my GitHub! I've been self-studying programming for a while to transition into a web development role 💻
 - 🔭 I’m currently freelancing making websites!
-- 🌱 I’m currently learning React ⚛️ and Firebase 🔥
+- 🌱 I’m learning React ⚛️ and Firebase 🔥
 - 📫 How to reach me: through here or on my <a href="https://www.linkedin.com/in/jack-o-hara-9abb9a124/">LinkedIn</a>
 - 😄 Pronouns: He/Him 
 - ⚡ Fun facts: I speak Spanish 🗺️, play ukulele 🎸 and love movies 🎥
